@@ -1,6 +1,5 @@
 ### Kocham te duze stworzenia
-[pandy-czarno-biale-dziwolagi-czy-pandy-sa-agresywne-ile-lat-ma-najstarsza-panda](https://github.com/Pandziarz/Pandziarz/assets/124568923/3b5ed8fd-0168-4f60-a715-53682050e9f3)
-
+![istockphoto-523761634-612x612](https://github.com/Pandziarz/Pandziarz/assets/124568923/85e59adc-6c3f-4f96-aeab-0aac8416c7ea)
 
 ### Siema tu Pandziarz
 ## Koduje oraz gram w Gry
