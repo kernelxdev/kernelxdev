@@ -1,13 +1,29 @@
-# Hi this is me Kernel and I love Pandas ❤️
-![istockphoto-523761634-612x612](https://github.com/Pandziarz/Pandziarz/assets/124568923/7fe3f3e3-9e90-4d9c-bae5-8aab97c1df28)
-## Full Stack game developer hobbyist or something
-### Paranormal programmer
-C#/Python
-Mostly C#
-I hate C++
+<div align="center">
+  <b>Henryk "Kernel"</b>
+  <br>
+  
+  <img src="https://avatars.githubusercontent.com/u/124568923" width=80>
+</div>
 
-Currently developing:
-- Infinity Nights Recode
-- Ryzenik Bot
+<div align="center">
+  <br>
+  <b>My Skill Set</b>
+  <br>
 
-I swear i will finish a project one day :sob:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux"/>
+  </a>
+  
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,java"/>
+  </a>
+
+  <br>
+  <b>I Use</b>
+  <br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rider,neovim,arch,unity"/>
+  </a>
+</div>
