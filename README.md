@@ -29,5 +29,17 @@
 
   <b>My Stats:</b>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=kernelxdev&theme=dark)](https://git.io/streak-stats)
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://nirzak-streak-stats.vercel.app?user=kernelxdev&theme=dark&hide_border=true" alt="GitHub Streak">
+        </a>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernelxdev&layout=compact&hide=cmake,c" alt="Top Langs">
+      </td>
+    </tr>
+  </table>
+
 </div>
