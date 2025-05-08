@@ -26,7 +26,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rider,neovim,arch,unity"/>
   </a>
+
+  <b>My Stats:</b>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=kernelxdev&theme=dark)](https://git.io/streak-stats)
 </div>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kernelxdev)](https://git.io/streak-stats)
