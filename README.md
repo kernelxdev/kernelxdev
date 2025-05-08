@@ -27,3 +27,6 @@
     <img src="https://skillicons.dev/icons?i=rider,neovim,arch,unity"/>
   </a>
 </div>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kernelxdev)](https://git.io/streak-stats)
