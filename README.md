@@ -31,9 +31,6 @@
           <img src="https://nirzak-streak-stats.vercel.app?user=kernelxdev&theme=dark&hide_border=true" alt="GitHub Streak">
         </a>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernelxdev&layout=compact&hide=cmake,c" alt="Top Langs">
-      </td>
     </tr>
   </table>
 
