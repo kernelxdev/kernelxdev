@@ -9,14 +9,9 @@
   <br>
   <b>My Skill Set</b>
   <br>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux"/>
-  </a>
   
-  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,java"/>
+    <img src="https://skillicons.dev/icons?i=linux,cs,rust"/>
   </a>
 
   <br>
@@ -24,7 +19,7 @@
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rider,neovim,arch,unity"/>
+    <img src="https://skillicons.dev/icons?i=arch,unity"/>
   </a>
 
   <b>My Stats:</b>
