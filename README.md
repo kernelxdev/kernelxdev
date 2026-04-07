@@ -6,7 +6,7 @@
       <h3>Henryk "Kernel"</h3>
       <hr>
     </td>
-    <td align="left" valign="top" style="padding-left: 20px;">
+    <td align="center" valign="top" style="padding-left: 20px;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,cs,unity,lua" />
       </a>
