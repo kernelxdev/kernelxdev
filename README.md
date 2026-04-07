@@ -11,27 +11,6 @@
   <br>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cs,rust"/>
+    <img src="https://skillicons.dev/icons?i=linux,cs,unity"/>
   </a>
-
-  <br>
-  <b>I Use</b>
-  <br>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,unity"/>
-  </a>
-
-  <b>My Stats:</b>
-
-  <table>
-    <tr>
-      <td>
-        <a href="https://git.io/streak-stats">
-          <img src="https://nirzak-streak-stats.vercel.app?user=kernelxdev&theme=dark&hide_border=true" alt="GitHub Streak">
-        </a>
-      </td>
-    </tr>
-  </table>
-
 </div>
