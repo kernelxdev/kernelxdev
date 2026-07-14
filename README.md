@@ -8,7 +8,7 @@
     </td>
     <td align="center" valign="top" style="padding-left: 20px;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,cs,unity,lua" />
+        <img src="https://skillicons.dev/icons?i=linux,cs,unity" />
       </a>
       <p>
         Independent software / <b>game developer</b>. I wish to go big one day.
